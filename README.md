@@ -1,2 +1,2 @@
 # Qtlearn
-##基于QtCreator，交流与学习。
+## 基于QtCreator，交流与学习。
